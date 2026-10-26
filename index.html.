@@ -1,0 +1,65 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dibustring Clip Studio — Terms of Service</title>
+  <style>
+    body {
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 22px;
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      color: #222;
+      background: #fff;
+    }
+    h1, h2 { color: #222; }
+    a { color: #555; }
+    footer { margin-top: 40px; border-top: 1px solid #ddd; padding-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Dibustring Clip Studio — Terms of Service</h1>
+  <p><strong>Effective date:</strong> October 26, 2026</p>
+
+  <p>These Terms of Service apply to your use of Dibustring Clip Studio ("the application"). By using the application, you agree to these terms.</p>
+
+  <h2>1. What the application does</h2>
+  <p>Dibustring Clip Studio is a Windows desktop application for reviewing video footage, finding candidate clips, editing vertical videos, managing subtitles, and preparing content for supported social platforms. Features and integrations may change depending on platform access and authorization.</p>
+
+  <h2>2. Your content and permissions</h2>
+  <p>You are responsible for the videos, audio, text, and other materials you open, edit, or publish. You must own the material or have the necessary rights and permissions to use it, including any required permissions for music, voices, likenesses, and third-party content.</p>
+
+  <h2>3. Publishing and third-party platforms</h2>
+  <p>You are responsible for reviewing the final video, captions, title, description, tags, audience, and visibility before publishing. Publishing actions should only be initiated with your authorization. TikTok, YouTube, and other providers apply their own rules, API limits, account requirements, and review procedures. We cannot control their decisions or availability.</p>
+  <p>The application does not guarantee that a video will be accepted, published publicly, or scheduled successfully by a third-party platform.</p>
+
+  <h2>4. Acceptable use</h2>
+  <p>You agree not to use the application to violate laws, infringe intellectual property or privacy rights, bypass platform restrictions, or distribute unlawful or harmful content. You must follow the terms and community guidelines of the platforms where you publish.</p>
+
+  <h2>5. Local files and backups</h2>
+  <p>You are responsible for maintaining backups of your original videos, project data, and exports. The application may create temporary files during analysis, transcription, preview, and rendering. Do not rely on the application as your only archive.</p>
+
+  <h2>6. Availability and changes</h2>
+  <p>The application is provided on an "as available" basis. Features and compatibility may depend on Windows, installed components, codecs, and external services. Nothing in these terms excludes rights that cannot lawfully be excluded.</p>
+
+  <h2>7. Limitation of responsibility</h2>
+  <p>To the extent permitted by applicable law, the publisher is not responsible for indirect losses arising from use of the application, loss of local files, or decisions made by third-party platforms. You remain responsible for reviewing exported content before publication.</p>
+
+  <h2>8. Third-party services and trademarks</h2>
+  <p>TikTok, YouTube, Google, and other names and marks belong to their respective owners. Dibustring Clip Studio is an independent application and is not affiliated with or endorsed by those companies.</p>
+
+  <h2>9. Changes to these terms</h2>
+  <p>These terms may be updated when the application or its integrations change. The effective date indicates the latest revision date.</p>
+
+  <h2>10. Contact</h2>
+  <p>For questions about these terms, contact the application publisher through the support channel provided with Dibustring Clip Studio.</p>
+
+  <footer>
+    <a href="privacy.html">Privacy Policy</a>
+  </footer>
+</body>
+</html>
+```
